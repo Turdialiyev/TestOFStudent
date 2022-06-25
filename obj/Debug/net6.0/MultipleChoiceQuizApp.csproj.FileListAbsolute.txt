@@ -1,0 +1,15 @@
+E:\c#\MultipleChoiceQuizApp\bin\Debug\net6.0\MultipleChoiceQuizApp.exe
+E:\c#\MultipleChoiceQuizApp\bin\Debug\net6.0\MultipleChoiceQuizApp.deps.json
+E:\c#\MultipleChoiceQuizApp\bin\Debug\net6.0\MultipleChoiceQuizApp.runtimeconfig.json
+E:\c#\MultipleChoiceQuizApp\bin\Debug\net6.0\MultipleChoiceQuizApp.dll
+E:\c#\MultipleChoiceQuizApp\bin\Debug\net6.0\MultipleChoiceQuizApp.pdb
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.csproj.AssemblyReference.cache
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.AssemblyInfoInputs.cache
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.AssemblyInfo.cs
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.csproj.CoreCompileInputs.cache
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.dll
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\refint\MultipleChoiceQuizApp.dll
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.pdb
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\MultipleChoiceQuizApp.genruntimeconfig.cache
+E:\c#\MultipleChoiceQuizApp\obj\Debug\net6.0\ref\MultipleChoiceQuizApp.dll
